@@ -1,10 +1,10 @@
-# Federico - Administrador de Gastos Personales
+ Administrador de Gastos Personales
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.38.4-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Federico** es una aplicación móvil moderna y completa para el seguimiento de gastos personales, diseñada con Flutter. Ofrece análisis avanzados, visualizaciones interactivas y una interfaz intuitiva para gestionar tus finanzas de manera eficiente.
+Aplicación móvil moderna y completa para el seguimiento de gastos personales, diseñada con Flutter. Ofrece análisis avanzados, visualizaciones interactivas y una interfaz intuitiva para gestionar tus finanzas de manera eficiente.
 
 ## ✨ Características Principales
 
